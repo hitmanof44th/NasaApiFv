@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0920bbd0-3c7e-4c73-823a-57048934044a": {
+      "ProjectGuid": "0920bbd0-3c7e-4c73-823a-57048934044a",
+      "DisplayName": "ApiNasaRovers",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b0b13aee-d4a5-4491-b3ab-aa62936b2b5d": {
+      "ProjectGuid": "b0b13aee-d4a5-4491-b3ab-aa62936b2b5d",
+      "DisplayName": "TestAPi",
+      "ColorIndex": 1
+    },
+    "ebae5e10-03ba-4757-9790-7ca52a709a0b": {
+      "ProjectGuid": "ebae5e10-03ba-4757-9790-7ca52a709a0b",
+      "DisplayName": "ApiTestCases",
+      "ColorIndex": 2
+    },
+    "12b6c93d-2884-4074-a11a-d3b1ca16c0be": {
+      "ProjectGuid": "12b6c93d-2884-4074-a11a-d3b1ca16c0be",
+      "DisplayName": "TestAPi",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
